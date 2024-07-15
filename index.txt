@@ -1,0 +1,143 @@
+UrbanDecor - Style Meets Comfort
+
+============== NAV BAR ==============
+
+UrbanDecor
+
+Home
+About
+Products
+Contact
+
+<i class="ri-search-2-line"></i>
+
+============== HEADER SECTION ==============
+
+Transform Your Space With Style
+
+We will help you to make an elegant and luxurious interior designed by professional interior designer.
+
+============== DEALS SECTION ==============
+
+Hot 🔥 deals for you
+
+Online shopping for retail sales direct to consumers
+
+<i class="ri-cash-line"></i>
+1.5% cashback
+Earn a 5% cashback reward on every furniture purchase you make!
+
+<i class="ri-calendar-schedule-line"></i>
+30 day terms
+Take advantage of our 30-day payment terms, completely interest-free!
+
+<i class="ri-money-rupee-circle-line"></i>
+Save money
+Discover unbeatable prices and save big money on top-quality furniture!
+
+============== ABOUT SECTION ==============
+
+About us
+
+Our passion for exceptional craftsmanship drives us to curate the best pieces for every room in your house.
+
+Learn More
+
+1.
+Who we are
+You get a 2-week free trail to kick the Smaert tries. We want you to.
+
+2.
+What do we do
+We give you a free course that guides you through the process.
+
+3.
+How do we help
+Use our multimedis lectures, videos, and coaching sessions.
+
+4.
+Create success story
+With access to online learning resources anyone can transform.
+
+============== PRODUCT SECTION ==============
+
+Products
+
+Add to Cart
+<i class="ri-shopping-cart-line"></i>
+
+Stackable Chair
+$87.00
+
+Lamp Tool
+$35.00
+
+Arla Accent Chair
+$55.00
+
+Barrel Sofa
+$35.00
+
+Lounge Chairs
+$45.00
+
+Bennett Chair
+$65.00
+
+============== CLIENT SECTION ==============
+
+What our happy client say
+
+Testimonials Highlighting Our Commitment to Quality, Exceptional Service, and Customer Satisfaction
+
+I absolutely love my new sofa from Furni.shop! It's so comfortable and the design fits perfectly with my living room decor. Plus, the 5% cashback offer was a fantastic bonus!
+
+DEmily Johnson
+Real Estate Agent
+
+I'm thrilled with my new bedroom set from Furni.shop. The craftsmanship is beautiful, and the delivery was quick and hassle-free. The 30-day payment terms were a lifesaver.
+
+Ava Davis
+Interior Designer
+
+Furni.shop made my home look like a designer's dream! The quality of the furniture is top-notch, and the 30-day payment terms were so convenient. Highly recommend!
+
+Sophia Martinez
+Entrepreneur
+
+============== FOOTER SECTION ==============
+
+UrbanDecor
+Join us in transforming your living spaces with furniture that blends elegance and practicality seamlessly.
+
+<i class="ri-facebook-fill"></i>
+<i class="ri-instagram-fill"></i>
+<i class="ri-linkedin-fill"></i>
+<i class="ri-pinterest-fill"></i>
+
+Services
+
+Contact Us
+Press
+Payrol
+Library
+Blog
+Help Center
+
+Resources
+
+Pricing
+FAQs
+Contact Support
+Privacy Policy
+Terms
+
+Support
+
+Contact
+Affiliates
+Sitemap
+Cancelation Policy
+Security
+
+Copyright © 2024 Code with Aarzoo. All rights reserved.
